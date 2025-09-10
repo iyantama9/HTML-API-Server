@@ -1,7 +1,7 @@
 # buat install dependency
 
-pip install -r requirements.txt
-uvicorn api.api:app --reload
+1. pip install -r requirements.txt
+2. uvicorn api.api:app --reload
 
 # Penjelasan
 
